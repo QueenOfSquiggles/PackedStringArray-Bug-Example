@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bavt00fc6aeve"]
+
+[ext_resource type="Script" path="res://tst.gd" id="1_0mn76"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_0mn76")
+test = PackedStringArray("ab")
